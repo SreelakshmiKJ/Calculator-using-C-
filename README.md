@@ -6,9 +6,9 @@ This C++ calculator program is designed to perform a wide range of mathematical 
 
 - **Arithmetic Operations**: Addition, subtraction, multiplication, and division.
 - **Trigonometric Operations**: Calculates sine, cosine, tangent, and other trigonometric functions.
-- **Logarithmic Operations**: Computes natural logarithms and other logarithmic values.
-- **Exponential Operations**: Calculates powers and exponential functions.
-- **Relational Operations**: Compares numbers with operations like greater than, less than, equal to, etc.
+- **Logarithmic Operations**: Computes logarithms (base 10)
+- **Exponential Operations**: Computes the result of raising a number to a specified power.
+- **Relational Operations**: Sorts and finds the largest and smallest elements from a given list of numbers.
 
 ## Requirements
 
